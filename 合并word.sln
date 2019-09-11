@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "合并word", "合并word\合并word.csproj", "{0AFD35BA-9FAB-444F-B06F-59D9D6EBD267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFD35BA-9FAB-444F-B06F-59D9D6EBD267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFD35BA-9FAB-444F-B06F-59D9D6EBD267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFD35BA-9FAB-444F-B06F-59D9D6EBD267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFD35BA-9FAB-444F-B06F-59D9D6EBD267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D27560F-783C-4338-BFEA-1D97D725E66C}
+	EndGlobalSection
+EndGlobal
